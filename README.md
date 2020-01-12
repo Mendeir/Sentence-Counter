@@ -2,7 +2,7 @@
 
 ### Sample Input:
 ```
-Enter a sentence: Am@z1nG, Txt-_-.g
+Enter a sentence: Am@z1nG, Txt-_-.
 ```
 
 ### Sample Output:
